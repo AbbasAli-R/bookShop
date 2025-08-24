@@ -7,7 +7,7 @@ const products = [
     category: "Fiction",
     description:
       "A classic novel by F. Scott Fitzgerald exploring wealth, love, and the American dream in the 1920s.",
-    image: "../src/assets/the great gutsby.jpeg"
+    image: "/src/assets/the_great_gutsby.jpeg"
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const products = [
     category: "Fiction",
     description:
       "Harper Lee's timeless story about racial injustice and moral growth in the Deep South.",
-    image: "/src/assets/to kill a mocking bird.jpeg",
+    image: "/src/assets/to_kill_a_mocking_bird.jpeg",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const products = [
     category: "Fiction",
     description:
       "Paulo Coelho's inspiring tale of following your dreams and destiny.",
-    image: "/src/assets/the alchemist.jpg",
+    image: "/src/assets/the_alchemist.jpg",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const products = [
     category: "Fiction",
     description:
       "J.D. Salinger’s coming-of-age story following Holden Caulfield’s search for meaning.",
-    image: "/src/assets/the catcher of the rye.jpeg",
+    image: "/src/assets/the_catcher_of_the_rye.jpeg",
   },
 
   // Technology & Programming
@@ -54,7 +54,7 @@ const products = [
     category: "Technology",
     description:
       "Robert C. Martin’s guide to writing clean, maintainable, and efficient code.",
-    image: "/src/assets/clean code.jpeg",
+    image: "/src/assets/clean_code.jpeg",
   },
   {
     id: 7,
@@ -63,7 +63,7 @@ const products = [
     category: "Technology",
     description:
       "A modern classic on practical approaches and best practices for software development.",
-    image: "/src/assets/the pragmatic programmer.jpeg",
+    image: "/src/assets/the_pragmatic_programmer.jpeg",
   },
   {
     id: 8,
@@ -72,7 +72,7 @@ const products = [
     category: "Technology",
     description:
       "Douglas Crockford highlights the strengths and best features of JavaScript.",
-    image: "/src/assets/javascript the good part.jpeg",
+    image: "/src/assets/javascript_the_good_part.jpeg",
   },
   {
     id: 9,
@@ -81,7 +81,7 @@ const products = [
     category: "Technology",
     description:
       "Kyle Simpson’s series diving deep into JavaScript’s core mechanisms.",
-    image: "/src/assets/you dont know js.jpeg",
+    image: "/src/assets/you_dont_know_js.jpeg",
   },
   {
     id: 10,
@@ -90,7 +90,7 @@ const products = [
     category: "Technology",
     description:
       "Cormen’s comprehensive reference on algorithms, widely used in CS education.",
-    image: "/src/assets/intro to algorithms.jpeg",
+    image: "/src/assets/intro_to_algorithms.jpeg",
   },
 
   // Self-Help & Motivation
@@ -101,7 +101,7 @@ const products = [
     category: "Self-Help",
     description:
       "James Clear’s best-seller on building good habits and breaking bad ones.",
-    image: "/src/assets/atomic habits.jpg",
+    image: "/src/assets/atomic_habits.jpg",
   },
   {
     id: 12,
@@ -110,7 +110,7 @@ const products = [
     category: "Self-Help",
     description:
       "Eckhart Tolle’s spiritual guide to living in the present moment.",
-    image: "/src/assets/the power of now.jpeg",
+    image: "/src/assets/the_power_of_now.jpeg",
   },
   {
     id: 13,
@@ -119,7 +119,7 @@ const products = [
     category: "Self-Help",
     description:
       "Napoleon Hill’s timeless book on success, mindset, and wealth-building.",
-    image: "/src/assets/think and grow rich.jpg",
+    image: "/src/assets/think_and_grow_rich.jpg",
   },
   {
     id: 14,
@@ -128,7 +128,7 @@ const products = [
     category: "Self-Help",
     description:
       "Stephen Covey’s framework for personal and professional effectiveness.",
-    image: "/src/assets/the 7 habits of highly effective people.jpeg",
+    image: "/src/assets/the_7_habits_of_highly_effective_people.jpeg",
   },
   {
     id: 15,
@@ -137,7 +137,7 @@ const products = [
     category: "Self-Help",
     description:
       "David Goggins’ motivational memoir on resilience, grit, and mental toughness.",
-    image: "/src/assets/cant hurt me.jpeg",
+    image: "/src/assets/cant_hurt_me.jpeg",
   },
 
   // History & Biography
@@ -148,7 +148,7 @@ const products = [
     category: "History",
     description:
       "Yuval Noah Harari’s exploration of human evolution, culture, and society.",
-    image: "/src/assets/a brief history of human kind.jpg",
+    image: "/src/assets/a_brief_history_of_human_kind.jpg",
   },
   {
     id: 17,
@@ -157,7 +157,7 @@ const products = [
     category: "History",
     description:
       "Anne Frank’s powerful diary documenting her life during World War II.",
-    image: "/src/assets/the diary of a young girl.jpeg",
+    image: "/src/assets/the_diary_of_a_young_girl.jpeg",
   },
   {
     id: 18,
@@ -166,7 +166,7 @@ const products = [
     category: "History",
     description:
       "Walter Isaacson’s biography of Apple co-founder Steve Jobs, based on exclusive interviews.",
-    image: "/src/assets/steve jobs.jpeg",
+    image: "/src/assets/steve_jobs.jpeg",
   },
   {
     id: 19,
@@ -175,7 +175,7 @@ const products = [
     category: "History",
     description:
       "Autobiography of Dr. A.P.J. Abdul Kalam, former President of India and visionary scientist.",
-    image: "/src/assets/wings of fire.jpg",
+    image: "/src/assets/wings_of_fire.jpg",
   },
   {
     id: 20,
@@ -184,7 +184,7 @@ const products = [
     category: "History",
     description:
       "Nelson Mandela’s autobiography chronicling his struggle for freedom and equality.",
-    image: "/src/assets/longwalk to freedom.jpg",
+    image: "/src/assets/longwalk_to_freedom.jpg",
   },
 ];
 
