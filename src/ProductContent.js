@@ -1,3 +1,5 @@
+import the_great_gutsby from './assets/the_great_gutsby.jpeg'
+
 const products = [
   // Fiction
   {
@@ -7,7 +9,7 @@ const products = [
     category: "Fiction",
     description:
       "A classic novel by F. Scott Fitzgerald exploring wealth, love, and the American dream in the 1920s.",
-    image: "/src/assets/the_great_gutsby.jpeg"
+    image: the_great_gutsby
   },
   {
     id: 2,
