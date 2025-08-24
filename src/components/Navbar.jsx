@@ -2,7 +2,7 @@
 import { Menu, X, ShoppingBag } from "lucide-react";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import logo from "../assets/images/logo.png";
+import logo from "../assets/logo.png";
 import { useDispatch, useSelector } from "react-redux";
 import { setSearchTerm } from "../features/products/ProductSlice";
 

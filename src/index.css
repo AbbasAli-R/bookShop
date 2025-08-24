@@ -11,7 +11,7 @@ body{
 
 
 .bg {
-  background: url('./assets/images/Banner.png');
+  background: url('./assets/Banner.png');
   height: 70vh;
   background-size: cover; 
   background-position: center; 
