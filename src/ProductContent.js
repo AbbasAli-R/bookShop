@@ -1,4 +1,23 @@
 import the_great_gutsby from './assets/the_great_gutsby.jpeg'
+import to_kill_a_mocking_bird from './assets/to_kill_a_mocking_bird.jpeg'
+import _1984 from './assets/1984.jpeg'
+import the_alchemist from './assets/the_alchemist.jpg'
+import the_catcher_of_the_rye from './assets/the_catcher_of_the_rye.jpeg'
+import clean_code from './assets/clean_code.jpeg'
+import the_pragmatic_programmer from './assets/the_pragmatic_programmer.jpeg'
+import javascript_the_good_part from './assets/javascript_the_good_part.jpeg'
+import you_dont_know_js from './assets/you_dont_know_js.jpeg'
+import intro_to_algorithms from './assets/intro_to_algorithms.jpeg'
+import atomic_habits from './assets/atomic_habits.jpg'
+import the_power_of_now from './assets/the_power_of_now.jpeg'
+import think_and_grow_rich from './assets/think_and_grow_rich.jpg'
+import the_7_habits_of_highly_effective_people from './assets/the_7_habits_of_highly_effective_people.jpeg'
+import cant_hurt_me from './assets/cant_hurt_me.jpeg'
+import a_brief_history_of_human_kind from './assets/a_brief_history_of_human_kind.jpg'
+import steve_jobs from './assets/steve_jobs.jpeg'
+import wings_of_fire from './assets/wings_of_fire.jpg'
+import longwalk_to_freedom from './assets/longwalk_to_freedom.jpg'
+import the_diary_of_a_young_girl from './assets/the_diary_of_a_young_girl.jpeg'
 
 const products = [
   // Fiction
@@ -18,7 +37,7 @@ const products = [
     category: "Fiction",
     description:
       "Harper Lee's timeless story about racial injustice and moral growth in the Deep South.",
-    image: "/src/assets/to_kill_a_mocking_bird.jpeg",
+    image: to_kill_a_mocking_bird,
   },
   {
     id: 3,
@@ -27,7 +46,7 @@ const products = [
     category: "Fiction",
     description:
       "George Orwell’s dystopian masterpiece warning against totalitarianism and surveillance.",
-    image: "/src/assets/1984.jpeg",
+    image: _1984,
   },
   {
     id: 4,
@@ -36,7 +55,7 @@ const products = [
     category: "Fiction",
     description:
       "Paulo Coelho's inspiring tale of following your dreams and destiny.",
-    image: "/src/assets/the_alchemist.jpg",
+    image: the_alchemist,
   },
   {
     id: 5,
@@ -45,7 +64,7 @@ const products = [
     category: "Fiction",
     description:
       "J.D. Salinger’s coming-of-age story following Holden Caulfield’s search for meaning.",
-    image: "/src/assets/the_catcher_of_the_rye.jpeg",
+    image: the_catcher_of_the_rye,
   },
 
   // Technology & Programming
@@ -56,7 +75,7 @@ const products = [
     category: "Technology",
     description:
       "Robert C. Martin’s guide to writing clean, maintainable, and efficient code.",
-    image: "/src/assets/clean_code.jpeg",
+    image: clean_code,
   },
   {
     id: 7,
@@ -65,7 +84,7 @@ const products = [
     category: "Technology",
     description:
       "A modern classic on practical approaches and best practices for software development.",
-    image: "/src/assets/the_pragmatic_programmer.jpeg",
+    image: the_pragmatic_programmer,
   },
   {
     id: 8,
@@ -74,7 +93,7 @@ const products = [
     category: "Technology",
     description:
       "Douglas Crockford highlights the strengths and best features of JavaScript.",
-    image: "/src/assets/javascript_the_good_part.jpeg",
+    image: javascript_the_good_part,
   },
   {
     id: 9,
@@ -83,7 +102,7 @@ const products = [
     category: "Technology",
     description:
       "Kyle Simpson’s series diving deep into JavaScript’s core mechanisms.",
-    image: "/src/assets/you_dont_know_js.jpeg",
+    image: you_dont_know_js,
   },
   {
     id: 10,
@@ -92,7 +111,7 @@ const products = [
     category: "Technology",
     description:
       "Cormen’s comprehensive reference on algorithms, widely used in CS education.",
-    image: "/src/assets/intro_to_algorithms.jpeg",
+    image: intro_to_algorithms,
   },
 
   // Self-Help & Motivation
@@ -103,7 +122,7 @@ const products = [
     category: "Self-Help",
     description:
       "James Clear’s best-seller on building good habits and breaking bad ones.",
-    image: "/src/assets/atomic_habits.jpg",
+    image: atomic_habits,
   },
   {
     id: 12,
@@ -112,7 +131,7 @@ const products = [
     category: "Self-Help",
     description:
       "Eckhart Tolle’s spiritual guide to living in the present moment.",
-    image: "/src/assets/the_power_of_now.jpeg",
+    image: the_power_of_now,
   },
   {
     id: 13,
@@ -121,7 +140,7 @@ const products = [
     category: "Self-Help",
     description:
       "Napoleon Hill’s timeless book on success, mindset, and wealth-building.",
-    image: "/src/assets/think_and_grow_rich.jpg",
+    image: think_and_grow_rich,
   },
   {
     id: 14,
@@ -130,7 +149,7 @@ const products = [
     category: "Self-Help",
     description:
       "Stephen Covey’s framework for personal and professional effectiveness.",
-    image: "/src/assets/the_7_habits_of_highly_effective_people.jpeg",
+    image: the_7_habits_of_highly_effective_people,
   },
   {
     id: 15,
@@ -139,7 +158,7 @@ const products = [
     category: "Self-Help",
     description:
       "David Goggins’ motivational memoir on resilience, grit, and mental toughness.",
-    image: "/src/assets/cant_hurt_me.jpeg",
+    image: cant_hurt_me,
   },
 
   // History & Biography
@@ -150,7 +169,7 @@ const products = [
     category: "History",
     description:
       "Yuval Noah Harari’s exploration of human evolution, culture, and society.",
-    image: "/src/assets/a_brief_history_of_human_kind.jpg",
+    image: a_brief_history_of_human_kind,
   },
   {
     id: 17,
@@ -159,7 +178,7 @@ const products = [
     category: "History",
     description:
       "Anne Frank’s powerful diary documenting her life during World War II.",
-    image: "/src/assets/the_diary_of_a_young_girl.jpeg",
+    image: the_diary_of_a_young_girl,
   },
   {
     id: 18,
@@ -168,7 +187,7 @@ const products = [
     category: "History",
     description:
       "Walter Isaacson’s biography of Apple co-founder Steve Jobs, based on exclusive interviews.",
-    image: "/src/assets/steve_jobs.jpeg",
+    image: steve_jobs,
   },
   {
     id: 19,
@@ -177,7 +196,7 @@ const products = [
     category: "History",
     description:
       "Autobiography of Dr. A.P.J. Abdul Kalam, former President of India and visionary scientist.",
-    image: "/src/assets/wings_of_fire.jpg",
+    image: wings_of_fire,
   },
   {
     id: 20,
@@ -186,7 +205,7 @@ const products = [
     category: "History",
     description:
       "Nelson Mandela’s autobiography chronicling his struggle for freedom and equality.",
-    image: "/src/assets/longwalk_to_freedom.jpg",
+    image: longwalk_to_freedom,
   },
 ];
 
