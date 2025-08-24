@@ -7,7 +7,7 @@ const products = [
     category: "Fiction",
     description:
       "A classic novel by F. Scott Fitzgerald exploring wealth, love, and the American dream in the 1920s.",
-    image: "/src/assets/the great gutsby.jpeg"
+    image: "../src/assets/the great gutsby.jpeg"
   },
   {
     id: 2,
