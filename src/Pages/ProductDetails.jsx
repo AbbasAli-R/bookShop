@@ -3,7 +3,7 @@ import { ShoppingCart } from "lucide-react";
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Link, useParams } from "react-router-dom";
-import { addToCart } from "../features/cart/Cartslice";
+import { addToCart } from "../features/cart/CartSlice";
 
 const ProductDetails = () => {
   const { id } = useParams();
