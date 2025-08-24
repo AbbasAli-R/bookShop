@@ -2,6 +2,7 @@
 import React from "react";
 import ProductCard from "./ProductCard";
 import { useSelector } from "react-redux";
+import products from '../ProductContent'
 
 const ProductGrid = () => {
   const products = useSelector((state) => state.product.filteredItems);
