@@ -42,7 +42,7 @@ const products = [
   {
     id: 3,
     title: "1984",
-    price: 14,
+    price: 302,
     category: "Fiction",
     description:
       "George Orwell’s dystopian masterpiece warning against totalitarianism and surveillance.",
@@ -51,7 +51,7 @@ const products = [
   {
     id: 4,
     title: "The Alchemist",
-    price: 10,
+    price: 239,
     category: "Fiction",
     description:
       "Paulo Coelho's inspiring tale of following your dreams and destiny.",
@@ -60,7 +60,7 @@ const products = [
   {
     id: 5,
     title: "The Catcher in the Rye",
-    price: 13,
+    price: 603,
     category: "Fiction",
     description:
       "J.D. Salinger’s coming-of-age story following Holden Caulfield’s search for meaning.",
@@ -71,7 +71,7 @@ const products = [
   {
     id: 6,
     title: "Clean Code",
-    price: 25,
+    price: 420,
     category: "Technology",
     description:
       "Robert C. Martin’s guide to writing clean, maintainable, and efficient code.",
@@ -80,7 +80,7 @@ const products = [
   {
     id: 7,
     title: "The Pragmatic Programmer",
-    price: 30,
+    price: 386,
     category: "Technology",
     description:
       "A modern classic on practical approaches and best practices for software development.",
@@ -89,7 +89,7 @@ const products = [
   {
     id: 8,
     title: "JavaScript: The Good Parts",
-    price: 18,
+    price: 752,
     category: "Technology",
     description:
       "Douglas Crockford highlights the strengths and best features of JavaScript.",
@@ -98,7 +98,7 @@ const products = [
   {
     id: 9,
     title: "You Don’t Know JS",
-    price: 20,
+    price: 280,
     category: "Technology",
     description:
       "Kyle Simpson’s series diving deep into JavaScript’s core mechanisms.",
@@ -107,7 +107,7 @@ const products = [
   {
     id: 10,
     title: "Introduction to Algorithms",
-    price: 45,
+    price: 850,
     category: "Technology",
     description:
       "Cormen’s comprehensive reference on algorithms, widely used in CS education.",
@@ -118,7 +118,7 @@ const products = [
   {
     id: 11,
     title: "Atomic Habits",
-    price: 22,
+    price: 480,
     category: "Self-Help",
     description:
       "James Clear’s best-seller on building good habits and breaking bad ones.",
@@ -127,7 +127,7 @@ const products = [
   {
     id: 12,
     title: "The Power of Now",
-    price: 17,
+    price: 379,
     category: "Self-Help",
     description:
       "Eckhart Tolle’s spiritual guide to living in the present moment.",
@@ -136,7 +136,7 @@ const products = [
   {
     id: 13,
     title: "Think and Grow Rich",
-    price: 19,
+    price: 436,
     category: "Self-Help",
     description:
       "Napoleon Hill’s timeless book on success, mindset, and wealth-building.",
@@ -145,7 +145,7 @@ const products = [
   {
     id: 14,
     title: "The 7 Habits of Highly Effective People",
-    price: 24,
+    price: 189,
     category: "Self-Help",
     description:
       "Stephen Covey’s framework for personal and professional effectiveness.",
@@ -154,7 +154,7 @@ const products = [
   {
     id: 15,
     title: "Can’t Hurt Me",
-    price: 21,
+    price: 230,
     category: "Self-Help",
     description:
       "David Goggins’ motivational memoir on resilience, grit, and mental toughness.",
@@ -165,7 +165,7 @@ const products = [
   {
     id: 16,
     title: "Sapiens: A Brief History of Humankind",
-    price: 28,
+    price: 265,
     category: "History",
     description:
       "Yuval Noah Harari’s exploration of human evolution, culture, and society.",
@@ -174,7 +174,7 @@ const products = [
   {
     id: 17,
     title: "The Diary of a Young Girl",
-    price: 16,
+    price: 340,
     category: "History",
     description:
       "Anne Frank’s powerful diary documenting her life during World War II.",
@@ -183,7 +183,7 @@ const products = [
   {
     id: 18,
     title: "Steve Jobs",
-    price: 27,
+    price: 330,
     category: "History",
     description:
       "Walter Isaacson’s biography of Apple co-founder Steve Jobs, based on exclusive interviews.",
@@ -192,7 +192,7 @@ const products = [
   {
     id: 19,
     title: "Wings of Fire",
-    price: 14,
+    price: 500,
     category: "History",
     description:
       "Autobiography of Dr. A.P.J. Abdul Kalam, former President of India and visionary scientist.",
@@ -201,7 +201,7 @@ const products = [
   {
     id: 20,
     title: "Long Walk to Freedom",
-    price: 23,
+    price: 421,
     category: "History",
     description:
       "Nelson Mandela’s autobiography chronicling his struggle for freedom and equality.",
